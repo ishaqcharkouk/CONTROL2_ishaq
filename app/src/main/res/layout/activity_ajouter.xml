@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ajouter">
+
+    <TextView
+        android:id="@+id/t1"
+        style="@style/titre"
+        android:text="@string/titre1"></TextView>
+
+    <EditText
+        android:id="@+id/e1"
+        style="@style/edittext"
+        android:layout_below="@+id/t1"
+        android:hint="@string/hint1">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/e2"
+        style="@style/edittext"
+        android:layout_below="@+id/e1"
+        android:hint="@string/hint2">
+
+    </EditText>
+
+    <EditText
+        style="@style/edittext"
+        android:layout_below="@+id/e2"
+        android:id="@+id/e3"
+        android:hint="@string/hint3">
+
+    </EditText>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/e3">
+        <Button
+            style="@style/btn"
+            android:layout_weight="1"
+            android:text="@string/btnajout1"
+            android:onClick="enregistrer">
+        </Button>
+        <Button
+            style="@style/btn"
+            android:layout_weight="1"
+            android:text="@string/btnajout2"
+            android:onClick="annuler">
+        </Button>
+    </LinearLayout>
+</RelativeLayout>

@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/drawable/forme.xml" value="0.152" />
+        <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/layout/activity_ajouter.xml" value="0.209375" />
+        <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/layout/activity_liste.xml" value="0.209375" />
         <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/layout/activity_modifier.xml" value="0.209375" />
+        <entry key="..\:/Users/Martil Tech/Desktop/CHARKOUKISHAQ/app/src/main/res/layout/allentreprise.xml" value="0.209375" />
       </map>
     </option>
   </component>
