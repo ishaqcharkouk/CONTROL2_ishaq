@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CONTROL2</string>
+    <string name="btn1">Ajouter Une Societé</string>
+    <string name="btn2">Editer Une Societé</string>
+    <string name="btn3">Lister Tous Les Societé</string>
+    <string name="hint1">Tapez votre raison sociale</string>
+    <string name="hint2">Tapez votre adresse</string>
+    <string name="hint3">Tapez votre capitale</string>
+    <string name="btnajout1">ENREGISTRER</string>
+    <string name="btnmodifier">MODIFIER</string>
+    <string name="btnsupprimer">SUPPRIMER</string>
+    <string name="btnajout2">ANNULER</string>
+    <string name="titre1">Ajouter Entreprise</string>
+    <string name="titre2">Modifier Entreprise</string>
+    <string name="titre3">Liste Entreprise</string>
 </resources>
